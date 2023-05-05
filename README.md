@@ -29,9 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Mathematics Magician] <a name="about-project"></a>
+# 📖 [React-Todo] <a name="about-project"></a>
 
-**[Maths Magician](https://lul-abdifan.github.io/React-Todo/)**  To-do list Web which is done for educational purpose and can help you
+**[React-Todo](https://lul-abdifan.github.io/React-Todo/)**  To-do list Web which is done for educational purpose and can help you
         get, and stay, on top of important projects and piles of tasks or
         decisions.
 
