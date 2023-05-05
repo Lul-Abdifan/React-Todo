@@ -31,7 +31,7 @@
 
 # 📖 [Mathematics Magician] <a name="about-project"></a>
 
-**[Maths Magician](https://lul-abdifan.github.io/Maths-Magician/)**  To-do list Web which is done for educational purpose and can help you
+**[Maths Magician](https://lul-abdifan.github.io/React-Todo/)**  To-do list Web which is done for educational purpose and can help you
         get, and stay, on top of important projects and piles of tasks or
         decisions.
 
@@ -63,7 +63,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 ### **[Todo-React
-](https://magician-app.onrender.com/)**
+](https://lul-abdifan.github.io/React-Todo/)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
